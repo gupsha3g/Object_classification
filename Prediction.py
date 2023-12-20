@@ -28,7 +28,7 @@ while True:
     # Preprocess the image
     preprocessed_img = expanded_img_array / 255.0
 
-    # Continue with the rest of your code
+    # prediction using model
     prediction = model.predict(preprocessed_img)
     clas = np.argmax(prediction)
 
