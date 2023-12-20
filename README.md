@@ -10,6 +10,4 @@ The maximum available time for sensing is 5 seconds per obstacle. There can be u
 
 2. Set of images (one after another) will be placed in front of the robot, each of them from one of the three groups: a deer, a human and something else.
 
-# Deer ![0AFL4JTLE450](https://github.com/gupsha3g/Object_classification/assets/154444785/f0defb98-f084-4525-85c7-86e0535ed7bd)
-# Human ![2390935](https://github.com/gupsha3g/Object_classification/assets/154444785/2fb705d8-e091-4bd4-bea8-72e1105cd2cb)
-# other ![screenshotd_606_jpgrf5a54bc0e6efef1cecbce190977be20ea](https://github.com/gupsha3g/Object_classification/assets/154444785/c993938f-3861-42ec-b298-0f729f083bef)
+# Deer ![0AFL4JTLE450](https://github.com/gupsha3g/Object_classification/assets/154444785/f0defb98-f084-4525-85c7-86e0535ed7bd) # Human ![2390935](https://github.com/gupsha3g/Object_classification/assets/154444785/2fb705d8-e091-4bd4-bea8-72e1105cd2cb) # other ![screenshotd_606_jpgrf5a54bc0e6efef1cecbce190977be20ea](https://github.com/gupsha3g/Object_classification/assets/154444785/c993938f-3861-42ec-b298-0f729f083bef)
