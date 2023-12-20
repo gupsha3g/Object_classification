@@ -6,8 +6,8 @@ from tensorflow.keras.applications.mobilenet import MobileNet, preprocess_input
 import math
 
 
-TRAIN_DATA_DIR = "C:\\Users\\jucyg\\OneDrive\\Desktop\\classification\\train"
-VALIDATION_DATA_DIR = "C:\\Users\\jucyg\\OneDrive\\Desktop\\classification\\valid"
+TRAIN_DATA_DIR = "C:\classification\train"
+VALIDATION_DATA_DIR = "C:\classification\valid"
 TRAIN_SAMPLES =871
 VALIDATION_SAMPLES = 380
 NUM_CLASSES = 3
